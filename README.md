@@ -14,7 +14,7 @@ This project investigates whether there is any potential racial bias in the allo
 ## Findings & Visualization
 
 The analysis reveals that expenditure levels are primarily driven by **age-related service needs** rather than ethnic background.
-
+![Analysis Chart](image.png)
 
 ### Observations:
 
